@@ -78,6 +78,9 @@ agent> whoami
 agent> uname -a
 agent> id
 ```
+## 🎬 Demo
+
+![MACShell Demo](assets/demo.gif)
 
 ---
 
