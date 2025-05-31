@@ -1,4 +1,4 @@
-#  MACShell – Covert MAC-Based Shell Over Ethernet (Layer 2) V0.1
+#  MACShell V0.1 – Covert MAC-Based Shell Over Ethernet (Layer 2) 
 
 **MACShell** is a stealthy command-and-control shell that operates purely over Layer 2 (Ethernet), bypassing IP-based monitoring and filtering. It uses raw MAC frames for communication and AES encryption for confidentiality — making it ideal for red team engagements and low-noise post-exploitation.
 
