@@ -105,4 +105,4 @@ agent> id
 
 ---
 
-Made with ❤️ by [Ozex](https://github.com/Ozex) for educational red teaming.
+Made with ❤️ by [Ozex](https://github.com/OzexK) for educational red teaming.
